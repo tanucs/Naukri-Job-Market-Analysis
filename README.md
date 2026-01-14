@@ -1,6 +1,8 @@
 # Naukri-Job-Market-Analysis
 Analysis of Naukri.com job listings data to understand job market trends, in-demand skills, experience requirements, and location-wise opportunities using Python, data cleaning techniques, and insightful visualizations.
 
+![Data Analytics Banner](https://github.com/tanucs/Naukri-Job-Market-Analysis/blob/main/naukari%20banner.png)
+
 # 💼 Naukri.com Job Market Analysis
 
 ## 📌 Overview
