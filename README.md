@@ -1,5 +1,5 @@
 # Naukri-Job-Market-Analysis
-Exploratory data analysis of structured sales data using Python to identify revenue trends, top-performing products, and regional performance. The project uses efficient data handling and visualizations to support data-driven business decisions.
+Analysis of Naukri.com job listings data to understand job market trends, in-demand skills, experience requirements, and location-wise opportunities using Python, data cleaning techniques, and insightful visualizations.
 
 # 💼 Naukri.com Job Market Analysis
 
